@@ -5,3 +5,4 @@ Profil paraméterek
 •         sapgui/user_scripting_disable_recording : false
 
 Alma
+Körte
